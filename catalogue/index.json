@@ -1,0 +1,23 @@
+{
+  "sfCategories" :
+  [
+    {
+
+      "catName": "",
+      "catDesc": "",
+
+      "catURL": "",
+      "catVisible": false
+
+    },
+    {
+
+      "catName": "Not Implemented",
+      "catDesc": "The Storefront is not fully implemented.",
+
+      "catURL": "",
+      "catVisible": true
+
+    }
+  ]
+}
