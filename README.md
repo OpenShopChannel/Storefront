@@ -11,7 +11,7 @@ This repo contains JSON and image data for OSC-ToolKit's Storefront.
   
   "statLinkExists"    : true,
   "statLinkCaption"   : "More Information",
-  "statLinkURL"       : "https://github.com/"
+  "statLinkURL"       : "https://github.com/OpenShopChannel/Storefront"
   
 }
 ```  
